@@ -1,0 +1,16 @@
+{
+  "name": "http-server-basic-routing",
+  "version": "1.0.0",
+  "description": "basic routing dengan nodejs tanpa framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "routing",
+    "nodejs",
+    "native"
+  ],
+  "author": "josua",
+  "license": "ISC"
+}

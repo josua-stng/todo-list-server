@@ -1,0 +1,40 @@
+A.Nama Tim : Byy
+
+B.Nim dan Nama lengkap :1.Josua Sitanggang (201112150)
+                        2.Steven (201110278)
+                        3.Thiyara Al-Mawaddah(201111041)
+
+C.Nama Aplikasi:To Do List
+
+D.Tema/Topik : To Do List
+
+E.Deskripsi Web : Di dalam project kali ini , kami mengembangkan sebuah aplikasi web dari https://github.com/dicodingacademy/a315-web-pemula-labs/tree/dom-manipulation,
+awal nya aplikasi web tersebut berupa aplikasi todo list,berupa aplikasi yang berfungsi untuk menyimpan daftar kegiatan user(pengguna).Didalam todolist
+ada bebrapa tools yang tersedia ,pertama :
+1)enter your todo : masukkan sebuah kegiatan yang ingin anda masukkan dalam todolist
+2)enter your date : masukkan tanggal dan waktu kegiatan anda sesuai yang anda ingin kan,
+3)submit : tombol /buuton untuk ngesubmit data todolist yang telah kita simpan
+4)form todolist ( form dimana list yang sudah anda di isi sebelumnya ), isi didalam form ini berupa list kegiatan yang anda isi diikuti dengan tanggal dan waktu
+yang telah di setting,didalam form ini juga tersedia tombol ceklis,tombol ceklis tersebut berfungsi sebagai tombol selesai(todolist yang kita masukkan telah selesai kita kerjakan)
+5)completed task : form yang berisi ,riwayat todolist yang telah kita selesaikan ,didalam form ini juga terdapat tombol kembali(todolist yang kita selesaikan dapat kita ulang kembali ke dalam form todlist)
+dan tombol hapus ( untuk mengahapus riwayat todolist yang selesai kita lakukan).
+
+Untuk yang kami tambahkan didalam aplikasi web ini ,kami ada menambahkan beebrapa fitur :
+1)DARKMODE :Dark mode sendiri merupakan tampilan yang membuat warna layar aplikasi menjadi lebih gelap, dan sangat berbeda dengan tampilan pada mode biasa, terutama pada pencahayaannya.
+pencahayaan di darmode menggunakan background gelap(hitam).
+2)FORM :Disini kami memisahkan beberapa form dari form semula, di from semula ,dibagian set todolist itu mereka menggabungkan form tersebut dengan form todolist yang telah dibuat.
+Kami memisahkan form tersebut menjadi 3 form , yaitu : form memasukkan todlist,form todolits,form riwayat todolis
+3)DESIGN :Didalam todolist yang sebelumnya ,design yang dibuat masi terlalu simple ,disini kami menambahkan beberapa design web nya.
+*pertama design dalam header.
+-menambahkan color ,beberapa properti css, dan menambahkan logo (icon) todolist agar lebih menarik sebagai tanda icon aplikasi todolist.
+*kedua design body dan form
+-Menambahkan color dalam body dan design dalam form yang baru kami tambahkan agar lebih menarik dan sesuai dengan warna header.
+*Memisahkan form
+-memisahakn form yang sebelumnya satu form menjadi beberapa bagian form dan menambahkan bebrapa properti css yang sesuai dengan kebutuhan
+4)FOOTER :Footer merupakan suatu teks yang ada di bagian bawah margin di setiap halaman web .Disini footer yang kami tambahkan kami menyesuaikan dengan style header.
+Didalam footer kami meanambahkan bebrapa style termasuk nama dari tim dan logo .
+
+
+
+F.Link Source code : https://github.com/dicodingacademy/a315-web-pemula-labs/tree/dom-manipulation
+Penjelasan hal yg ditambahkan: Hal yang kami tambahkan yaitu berupa perubahan style tampilan layout ,dark mode ,node js routing dan local storage/session storage yg dimana jika di refresh, data yg kita masukkan tidak akan hilang kecuali kita akan hapus dengan manual

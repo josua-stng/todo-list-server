@@ -1,0 +1,28 @@
+.dark-mode {
+    background-color: black;
+  }
+  
+  .darkmode {
+    margin-top: 20px;
+    display: grid;
+    justify-content: flex-end;
+    margin-right: 40px;
+  }
+  .btn {
+    width: 120px;
+    height: 40px;
+    background-color: pink;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+  .btn:active {
+    background-color: rgb(177, 28, 55);
+    color: black;
+  }
+  
+  .text {
+    margin-top: -11px;
+    margin-left: 10px;
+    font-family: "Yuji Mai", serif;
+  }
+  
